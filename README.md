@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [腳踏車抵家](https://jarvislin.com/bikeshere/)
+- [願您安息，Vangelis](https://jarvislin.com/rip-vangelis/)
+- [我開始居家隔離 3+4 天](https://jarvislin.com/self-quarantine-at-home/)
+- [App Center 無法成功建置 Java 11 的 Android 專案](https://jarvislin.com/app-center-java-11-build-error/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
