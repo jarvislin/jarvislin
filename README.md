@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jarvis Lin</h1>
-<h3 align="center">A professional who creates effective and creative solutions to business and technology demands.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarvislin&label=Profile%20views&color=0e75b6&style=flat" alt="jarvislin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarvislin" alt="jarvislin" /></a> </p>
+<h1>Hi 👋, I'm Jarvis Lin</h1>
+<h3>A professional who creates effective and creative solutions to business and technology demands.</h3>
 
 - 📝 I regularly write articles on [https://jarvislin.com](https://jarvislin.com)
 
