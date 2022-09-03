@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [貫徹始終的賓士車隊文化](https://jarvislin.com/%e8%b2%ab%e5%be%b9%e5%a7%8b%e7%b5%82%e7%9a%84%e8%b3%93%e5%a3%ab%e8%bb%8a%e9%9a%8a%e6%96%87%e5%8c%96/)
 - [腳踏車抵家的系統設計](https://jarvislin.com/bikeshere-system-design/)
 - [創業之星選秀大賽得獎感言](https://jarvislin.com/innovative-entrepreneurs-competition/)
 - [腳踏車抵家 – 立志把官方 YouBike App 再進化](https://jarvislin.com/bikeshere/)
-- [願您安息，Vangelis](https://jarvislin.com/rip-vangelis/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
