@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [如何處理出國的網路？ eSIM 是個好選擇](https://jarvislin.com/%e5%a6%82%e4%bd%95%e8%99%95%e7%90%86%e5%87%ba%e5%9c%8b%e7%9a%84%e7%b6%b2%e8%b7%af%ef%bc%9f-esim-%e6%98%af%e5%80%8b%e5%a5%bd%e9%81%b8%e6%93%87/)
 - [COVID-19 確診及通報流程紀錄](https://jarvislin.com/got-covid/)
 - [GoShare 取代租機車可行嗎？](https://jarvislin.com/goshare/)
 - [MacOS CPU 資源被 ReportCrash 吃光](https://jarvislin.com/macos-cpu-reportcrash/)
-- [貫徹始終的賓士車隊文化](https://jarvislin.com/%e8%b2%ab%e5%be%b9%e5%a7%8b%e7%b5%82%e7%9a%84%e8%b3%93%e5%a3%ab%e8%bb%8a%e9%9a%8a%e6%96%87%e5%8c%96/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
