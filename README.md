@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Midjourney 入門](https://jarvislin.com/midjourney/)
 - [Automattic 面試心得](https://jarvislin.com/automattic-interview/)
 - [揭開土耳其浴的神秘面紗](https://jarvislin.com/turkish-bath/)
 - [如何處理出國的網路？ eSIM 是個好選擇](https://jarvislin.com/%e5%a6%82%e4%bd%95%e8%99%95%e7%90%86%e5%87%ba%e5%9c%8b%e7%9a%84%e7%b6%b2%e8%b7%af%ef%bc%9f-esim-%e6%98%af%e5%80%8b%e5%a5%bd%e9%81%b8%e6%93%87/)
-- [COVID-19 確診及通報流程紀錄](https://jarvislin.com/got-covid/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
