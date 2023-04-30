@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [火車裡的蚊子為何有慣性運動](https://jarvislin.com/%e7%81%ab%e8%bb%8a%e8%a3%a1%e7%9a%84%e8%9a%8a%e5%ad%90%e7%82%ba%e4%bd%95%e6%9c%89%e6%85%a3%e6%80%a7%e9%81%8b%e5%8b%95/)
+- [阿姆斯特丹淺嚐紀錄](https://jarvislin.com/2023-meetup-amsterdam/)
 - [讓 AI 幫我們畫圖，Midjourney 入門](https://jarvislin.com/midjourney/)
 - [Automattic 面試心得](https://jarvislin.com/automattic-interview/)
-- [揭開土耳其浴的神秘面紗](https://jarvislin.com/turkish-bath/)
-- [如何處理出國的網路？ eSIM 是個好選擇](https://jarvislin.com/%e5%a6%82%e4%bd%95%e8%99%95%e7%90%86%e5%87%ba%e5%9c%8b%e7%9a%84%e7%b6%b2%e8%b7%af%ef%bc%9f-esim-%e6%98%af%e5%80%8b%e5%a5%bd%e9%81%b8%e6%93%87/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
