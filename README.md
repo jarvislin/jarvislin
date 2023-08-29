@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [海外痛風驚魂](https://jarvislin.com/gout/)
 - [火車裡的蚊子為何有慣性運動](https://jarvislin.com/%e7%81%ab%e8%bb%8a%e8%a3%a1%e7%9a%84%e8%9a%8a%e5%ad%90%e7%82%ba%e4%bd%95%e6%9c%89%e6%85%a3%e6%80%a7%e9%81%8b%e5%8b%95/)
 - [阿姆斯特丹淺嚐紀錄](https://jarvislin.com/2023-meetup-amsterdam/)
 - [讓 AI 幫我們畫圖，Midjourney 入門](https://jarvislin.com/midjourney/)
+- [Automattic 面試心得](https://jarvislin.com/automattic-interview/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
