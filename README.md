@@ -9,10 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [我在路上被揍了](https://jarvislin.com/got-beaten-up-on-the-street/)
-- [數位遊牧的起點](https://jarvislin.com/beginning-as-a-digital-nomad/)
-- [SMILE Pro 全飛秒近視雷射紀錄](https://jarvislin.com/smile-pro/)
-- [2023 回顧](https://jarvislin.com/2023-summary/)
+- [How to Develop and Publish an App on Two Platforms Within a Week?](https://medium.com/@jarvislin/how-to-develop-and-publish-an-app-on-two-platforms-within-a-week-918cea37dda2?source=rss-bce5b3604407------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
