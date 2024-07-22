@@ -16,10 +16,8 @@ A passionate app developer and Kotlin Multiplatform enthusiast, currently seekin
 - [2023 回顧](https://jarvislin.com/2023-summary/)
 <!-- BLOG-POST-LIST:END -->
 
-### Status
+### Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jarvislin&show_icons=true&locale=en&count_private=true" alt="jarvislin" /></p>
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarvislin&" alt="jarvislin" /></p>
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarvislin&show_icons=true&locale=en&layout=compact" alt="jarvislin" /></p>
