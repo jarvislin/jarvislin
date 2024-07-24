@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jarvis Lin
-A passionate app developer and Kotlin Multiplatform enthusiast, currently seeking remote job or freelance opportunities.
+A passionate app developer and Kotlin Multiplatform enthusiast, currently seeking remote jobs or freelance opportunities.
 
 - 📄 Know about my experiences [https://resume.jarvislin.com](https://resume.jarvislin.com)
 - 📝 I regularly write articles on:
