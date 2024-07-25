@@ -5,7 +5,7 @@ A passionate app developer and Kotlin Multiplatform enthusiast, currently seekin
 - 📝 I regularly write articles on:
   - [medium.com/@jarvislin](https://medium.com/@jarvislin) (in English) 
   - [jarvislin.com](https://jarvislin.com) (in Chinese)
-- Download my apps on:
+- 📱 Download my apps on:
   - [Google Play](https://play.google.com/store/apps/dev?id=7545474457052028658) (Android)
   - [App Store](https://apps.apple.com/tw/developer/dong-sian-lin/id1754164176) (iOS)
 
