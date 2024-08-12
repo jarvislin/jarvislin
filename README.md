@@ -12,11 +12,11 @@ A passionate app developer and Kotlin Multiplatform enthusiast, currently seekin
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Develop and Publish an App on Two Platforms Within a Week?](https://medium.com/@jarvislin/how-to-develop-and-publish-an-app-on-two-platforms-within-a-week-918cea37dda2?source=rss-bce5b3604407------2)
 - [我在路上被揍了](https://jarvislin.com/got-beaten-up-on-the-street/)
 - [數位遊牧的起點](https://jarvislin.com/beginning-as-a-digital-nomad/)
 - [SMILE Pro 全飛秒近視雷射紀錄](https://jarvislin.com/smile-pro/)
 - [2023 回顧](https://jarvislin.com/2023-summary/)
-- [火車裡的蚊子為何有慣性運動](https://jarvislin.com/%e7%81%ab%e8%bb%8a%e8%a3%a1%e7%9a%84%e8%9a%8a%e5%ad%90%e7%82%ba%e4%bd%95%e6%9c%89%e6%85%a3%e6%80%a7%e9%81%8b%e5%8b%95/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats
