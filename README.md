@@ -12,7 +12,11 @@ A passionate app developer and Kotlin Multiplatform enthusiast, currently seekin
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [HostHatch – 近期 CP 值最好的 VPS](https://jarvislin.com/hosthatch/)
+- [蔬果花卉行情站 – 十週年全新改版](https://jarvislin.com/crops-price-app/)
+- [換電腦後的 Xcode App 上架錯誤](https://jarvislin.com/xcode-distribution-errors-on-another-laptop/)
 - [How to Develop and Publish an App on Two Platforms Within a Week?](https://medium.com/@jarvislin/how-to-develop-and-publish-an-app-on-two-platforms-within-a-week-918cea37dda2?source=rss-bce5b3604407------2)
+- [我在路上被揍了](https://jarvislin.com/got-beaten-up-on-the-street/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats
