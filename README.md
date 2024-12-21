@@ -12,11 +12,11 @@ A passionate app developer and Kotlin Multiplatform enthusiast, currently seekin
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [如何申請台灣公司的英文名稱](https://jarvislin.com/register-company-name-in-english/)
 - [免費用 Gmail 收發個人網址的郵件](https://jarvislin.com/send-emails-with-custom-domain-using-gmail-for-free/)
 - [雨水收集系統製作紀錄 – 下](https://jarvislin.com/rain-water-collection-demo/)
 - [雨水收集系統製作紀錄 – 上](https://jarvislin.com/rain-water-collection-core-feature/)
 - [HostHatch – 近期 CP 值最好的 VPS](https://jarvislin.com/hosthatch/)
-- [蔬果花卉行情站 – 十週年全新改版](https://jarvislin.com/crops-price-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats
