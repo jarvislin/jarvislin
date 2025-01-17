@@ -12,7 +12,7 @@ A passionate app developer and Kotlin Multiplatform enthusiast.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [使用 Firebase Distrubution 發布 iOS App](https://jarvislin.com/firebase-distrubution-for-ios/)
+- [使用 Firebase Distrubution 內部測試 iOS App](https://jarvislin.com/firebase-distrubution-for-ios/)
 - [2024 回顧](https://jarvislin.com/2024-review/)
 - [如何申請台灣公司的英文名稱](https://jarvislin.com/register-company-name-in-english/)
 - [免費用 Gmail 收發個人網址的郵件](https://jarvislin.com/send-emails-with-custom-domain-using-gmail-for-free/)
