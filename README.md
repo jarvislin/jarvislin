@@ -18,9 +18,3 @@ A passionate app developer and Kotlin Multiplatform enthusiast.
 - [2024 回顧](https://jarvislin.com/2024-review/)
 - [如何申請台灣公司的英文名稱](https://jarvislin.com/register-company-name-in-english/)
 <!-- BLOG-POST-LIST:END -->
-
-### Stats
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jarvislin&show_icons=true&locale=en&count_private=true" alt="jarvislin" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarvislin&" alt="jarvislin" /></p>
