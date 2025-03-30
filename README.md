@@ -12,5 +12,9 @@ A passionate app developer and Kotlin Multiplatform enthusiast.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Develop and Publish an App on Two Platforms Within a Week?](https://medium.com/@jarvislin/how-to-develop-and-publish-an-app-on-two-platforms-within-a-week-918cea37dda2?source=rss-bce5b3604407------2)
+- [如何在台灣申請 Stripe 帳號](https://jarvislin.com/how-to-apply-for-a-stripe-account-in-taiwan/)
+- [使用 TestFlight 發布測試版 iOS app](https://jarvislin.com/test-ios-app-by-using-testflight/)
+- [使用 Firebase Distrubution 內部測試 iOS App](https://jarvislin.com/firebase-distrubution-for-ios/)
+- [2024 回顧](https://jarvislin.com/2024-review/)
+- [如何申請台灣公司的英文名稱](https://jarvislin.com/register-company-name-in-english/)
 <!-- BLOG-POST-LIST:END -->
