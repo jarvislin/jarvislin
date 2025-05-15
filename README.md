@@ -1,7 +1,6 @@
 # Hi 👋, I'm Jarvis Lin
 A passionate app developer and Kotlin Multiplatform enthusiast.
 
-- 📄 Know about my experiences [https://resume.jarvislin.com](https://resume.jarvislin.com)
 - 📝 I regularly write articles on:
   - [medium.com/@jarvislin](https://medium.com/@jarvislin) (in English) 
   - [jarvislin.com](https://jarvislin.com) (in Chinese)
