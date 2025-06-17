@@ -11,9 +11,9 @@ A passionate app developer and Kotlin Multiplatform enthusiast.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [電子發票整合服務平台開立發票](https://jarvislin.com/%e9%9b%bb%e5%ad%90%e7%99%bc%e7%a5%a8%e6%95%b4%e5%90%88%e6%9c%8d%e5%8b%99%e5%b9%b3%e5%8f%b0%e9%96%8b%e7%ab%8b%e7%99%bc%e7%a5%a8/)
 - [The Night I Forgot Myself in Spitzkoppe](https://medium.com/@jarvislin/the-night-i-forgot-myself-in-spitzkoppe-6e6c558dc22b?source=rss-bce5b3604407------2)
 - [如何在台灣申請 Stripe 帳號](https://jarvislin.com/how-to-apply-for-a-stripe-account-in-taiwan/)
 - [使用 TestFlight 發布測試版 iOS app](https://jarvislin.com/test-ios-app-by-using-testflight/)
 - [使用 Firebase Distrubution 內部測試 iOS App](https://jarvislin.com/firebase-distrubution-for-ios/)
-- [2024 回顧](https://jarvislin.com/2024-review/)
 <!-- BLOG-POST-LIST:END -->
